@@ -1,0 +1,6 @@
+KMeans
+------------------------------------------------------------------------------
+Compile		:	javac KMeans.java
+Run		:	java KMeans (Image name) (k-value) (Output Image Name)
+Note		:	In output file name, do not use .jpg
+Example		:	java KMeans Koala.jpg 10 NewKoala
